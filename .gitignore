@@ -1,0 +1,8 @@
+/data/
+/data_new/
+/cnn_time_series/
+/run.py
+/lightning_logs/
+/demo.ipynb
+/demo_mask.ipynb
+/main.ipynb
